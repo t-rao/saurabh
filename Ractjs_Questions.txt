@@ -1,0 +1,125 @@
+JSX is faster because it performs ____________ while compiling code to JavaScript
+Encryption
+*Optimization
+Modification
+Compression
+
+Invoked once, only on the client, after rendering occurs.
+ComponentWillUnmount
+ComponentDidMount
+ComponentWillMount
+ShouldComponentUpdate
+
+React is mainly for building
+Databases
+Design Platform
+*User interface
+Connectivity
+
+Event handling in React is more similar to Event handling in DOM
+True
+*False
+
+In React, a state can be defined as a
+element history
+*key-value
+component
+placeholder
+
+which of the following needs to be updated to achieve dynamic UI update?
+State
+*props
+
+
+What is the smallest building block of reactJS
+*elements
+non of the options
+components
+props
+
+Components cannot refer to other components in their output
+False
+True
+
+An alternated component may be uniquely idemtified with the help of ref
+True
+False
+
+
+State can be initalized when code is loaded or state can be on Event changes
+False
+True
+
+Lifecycle methods are mainly used
+
+To keep track of event history
+to enhance Components
+freeup resources
+none of the options
+
+Which of the following is used to pass the data from parent to child?
+props
+state
+
+Arbitrary input of components are called.....
+
+keys
+ref
+element
+props
+
+
+
+...... can be done while more than one element needs to be returned from a component.
+
+wrapping
+Insulation
+Packing
+Abstraction
+
+
+Which lifecycle event is invoked before rendering and when new props or
+state are being received?
+
+render()
+componentDidUpdate()
+ShouldComponentUpdate()
+ComponentWillUpdate()
+
+react covers ______ layers of the app.
+
+Model
+view
+All
+Control
+
+
+We can go for keys when there is possiblity that our user could change the data.
+
+ref
+non of the options
+both
+keys
+
+
+
+If you create a element, you can't change its_____.
+
+events
+Children
+state
+both 1 and 3
+
+
+
+React supports all the syntax of
+
+Redux
+ES6
+Native Java
+None of the options
+
+
+To prevent firing of the component's lifecycle methods you can use null from render methods
+True
+False
